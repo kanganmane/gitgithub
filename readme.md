@@ -1,2 +1,3 @@
 ## hello git
-- I am adding this from branch2
+
+Made some changes in branch1.
